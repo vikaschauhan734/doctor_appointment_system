@@ -1,0 +1,29 @@
+# Notebook
+ipykernel
+
+# Data Handling
+numpy
+pandas
+
+# Langchain 
+langchain
+langchain-core
+langchain-groq
+langchain-google-genai
+langchain-text-splitters
+duckduckgo-search
+langchain-community
+langgraph
+
+# Load environment variables
+python-dotenv
+
+# Web Application
+streamlit
+
+# API
+fastapi
+uvicorn
+
+# For local packages
+# -e .
